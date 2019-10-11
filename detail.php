@@ -8,6 +8,8 @@
     <!-- viewport meta -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+
+
     <!-- helpers -->
     <link rel="stylesheet" href="./detail/bootstrap.min.css">
     <!-- fontawesome css -->
